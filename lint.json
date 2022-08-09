@@ -1,0 +1,47 @@
+[
+  {
+    "name": "MatchingByColorPage",
+    "filePath": "src/screens/MatchingByColorPage.tsx",
+    "lines": [
+      {
+        "lineNumber": 7,
+        "line": "/**"
+      },
+      {
+        "lineNumber": 8,
+        "line": " * Page displaying artworks when the user starts a matching by color"
+      },
+      {
+        "lineNumber": 9,
+        "line": " * @param {Object} route"
+      },
+      {
+        "lineNumber": 10,
+        "line": " * @param {string} color - Color picked by the user"
+      },
+      {
+        "lineNumber": 11,
+        "line": " * @constructor"
+      },
+      {
+        "lineNumber": 12,
+        "line": " * @return MatchingByColorPage"
+      },
+      {
+        "lineNumber": 13,
+        "line": " */"
+      },
+      {
+        "lineNumber": 14,
+        "line": "export default function MatchingByColorPage({route}: any) {"
+      }
+    ],
+    "codeParams": [
+      "*"
+    ],
+    "docParams": [
+      "route",
+      "color"
+    ]
+  }
+]
