@@ -1,7 +1,7 @@
 {
   "type": "File",
   "start": 0,
-  "end": 1366,
+  "end": 1367,
   "loc": {
     "start": {
       "line": 1,
@@ -15,7 +15,7 @@
   "program": {
     "type": "Program",
     "start": 0,
-    "end": 1366,
+    "end": 1367,
     "loc": {
       "start": {
         "line": 1,
@@ -415,7 +415,7 @@
       {
         "type": "ExportNamedDeclaration",
         "start": 168,
-        "end": 362,
+        "end": 363,
         "loc": {
           "start": {
             "line": 7,
@@ -432,7 +432,7 @@
         "declaration": {
           "type": "TypeAlias",
           "start": 175,
-          "end": 362,
+          "end": 363,
           "loc": {
             "start": {
               "line": 7,
@@ -465,7 +465,7 @@
           "right": {
             "type": "ObjectTypeAnnotation",
             "start": 207,
-            "end": 362,
+            "end": 363,
             "loc": {
               "start": {
                 "line": 7,
@@ -581,7 +581,7 @@
               {
                 "type": "ObjectTypeProperty",
                 "start": 259,
-                "end": 283,
+                "end": 284,
                 "loc": {
                   "start": {
                     "line": 10,
@@ -589,7 +589,7 @@
                   },
                   "end": {
                     "line": 10,
-                    "column": 28
+                    "column": 29
                   }
                 },
                 "key": {
@@ -611,45 +611,45 @@
                 },
                 "value": {
                   "type": "GenericTypeAnnotation",
-                  "start": 268,
-                  "end": 282,
+                  "start": 269,
+                  "end": 283,
                   "loc": {
                     "start": {
                       "line": 10,
-                      "column": 13
+                      "column": 14
                     },
                     "end": {
                       "line": 10,
-                      "column": 27
+                      "column": 28
                     }
                   },
                   "typeParameters": null,
                   "id": {
                     "type": "QualifiedTypeIdentifier",
-                    "start": 268,
-                    "end": 282,
+                    "start": 269,
+                    "end": 283,
                     "loc": {
                       "start": {
                         "line": 10,
-                        "column": 13
+                        "column": 14
                       },
                       "end": {
                         "line": 10,
-                        "column": 27
+                        "column": 28
                       }
                     },
                     "qualification": {
                       "type": "Identifier",
-                      "start": 268,
-                      "end": 276,
+                      "start": 269,
+                      "end": 277,
                       "loc": {
                         "start": {
                           "line": 10,
-                          "column": 13
+                          "column": 14
                         },
                         "end": {
                           "line": 10,
-                          "column": 21
+                          "column": 22
                         },
                         "identifierName": "Animated"
                       },
@@ -657,16 +657,16 @@
                     },
                     "id": {
                       "type": "Identifier",
-                      "start": 277,
-                      "end": 282,
+                      "start": 278,
+                      "end": 283,
                       "loc": {
                         "start": {
                           "line": 10,
-                          "column": 22
+                          "column": 23
                         },
                         "end": {
                           "line": 10,
-                          "column": 27
+                          "column": 28
                         },
                         "identifierName": "Value"
                       },
@@ -674,14 +674,14 @@
                     }
                   }
                 },
-                "optional": false,
+                "optional": true,
                 "static": false,
                 "variance": null
               },
               {
                 "type": "ObjectTypeProperty",
-                "start": 288,
-                "end": 310,
+                "start": 289,
+                "end": 311,
                 "loc": {
                   "start": {
                     "line": 11,
@@ -694,8 +694,8 @@
                 },
                 "key": {
                   "type": "Identifier",
-                  "start": 288,
-                  "end": 300,
+                  "start": 289,
+                  "end": 301,
                   "loc": {
                     "start": {
                       "line": 11,
@@ -711,8 +711,8 @@
                 },
                 "value": {
                   "type": "BooleanTypeAnnotation",
-                  "start": 302,
-                  "end": 309,
+                  "start": 303,
+                  "end": 310,
                   "loc": {
                     "start": {
                       "line": 11,
@@ -730,8 +730,8 @@
               },
               {
                 "type": "ObjectTypeProperty",
-                "start": 315,
-                "end": 360,
+                "start": 316,
+                "end": 361,
                 "loc": {
                   "start": {
                     "line": 12,
@@ -744,8 +744,8 @@
                 },
                 "value": {
                   "type": "FunctionTypeAnnotation",
-                  "start": 315,
-                  "end": 359,
+                  "start": 316,
+                  "end": 360,
                   "loc": {
                     "start": {
                       "line": 12,
@@ -759,8 +759,8 @@
                   "params": [
                     {
                       "type": "FunctionTypeParam",
-                      "start": 331,
-                      "end": 352,
+                      "start": 332,
+                      "end": 353,
                       "loc": {
                         "start": {
                           "line": 12,
@@ -773,8 +773,8 @@
                       },
                       "name": {
                         "type": "Identifier",
-                        "start": 331,
-                        "end": 343,
+                        "start": 332,
+                        "end": 344,
                         "loc": {
                           "start": {
                             "line": 12,
@@ -791,8 +791,8 @@
                       "optional": false,
                       "typeAnnotation": {
                         "type": "BooleanTypeAnnotation",
-                        "start": 345,
-                        "end": 352,
+                        "start": 346,
+                        "end": 353,
                         "loc": {
                           "start": {
                             "line": 12,
@@ -810,8 +810,8 @@
                   "typeParameters": null,
                   "returnType": {
                     "type": "VoidTypeAnnotation",
-                    "start": 355,
-                    "end": 359,
+                    "start": 356,
+                    "end": 360,
                     "loc": {
                       "start": {
                         "line": 12,
@@ -827,8 +827,8 @@
                 "static": false,
                 "key": {
                   "type": "Identifier",
-                  "start": 315,
-                  "end": 330,
+                  "start": 316,
+                  "end": 331,
                   "loc": {
                     "start": {
                       "line": 12,
@@ -870,9 +870,9 @@
           "trailingComments": [
             {
               "type": "CommentBlock",
-              "value": "*\n * Component displaying a header for {@link ArtistPage}\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1blw6wW1IkP-TcNxOzJK3UEaeHLoVvAgp\" alt=\"ArtworkPage\" height=\"500\">\n * @param {HeaderArtistNonUserProps} props\n * @param {string} props.imageUri - URI of the banner\n * @param {string} props.artistName - Name of the artist\n * @param {Animated.Value} props.scrollY - Value of the scroll position\n * @param {boolean} props.onClickImage - Visibility OnClickImageModal\n * @param {void} props.setOnClickImage - Toggles visibility OnClickImageModal\n * @constructor\n * @return HeaderComponent\n ",
-              "start": 364,
-              "end": 970,
+              "value": "*\n * Component displaying a header for {@link ArtistPage}\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1blw6wW1IkP-TcNxOzJK3UEaeHLoVvAgp\" alt=\"ArtworkPage\" height=\"200\">\n * @param {HeaderArtistNonUserProps} props\n * @param {string} props.imageUri - URI of the banner\n * @param {string} props.artistName - Name of the artist\n * @param {Animated.Value} props.scrollY - Value of the scroll position\n * @param {boolean} props.onClickImage - Visibility OnClickImageModal\n * @param {void} props.setOnClickImage - Toggles visibility OnClickImageModal\n * @constructor\n * @return HeaderComponent\n ",
+              "start": 365,
+              "end": 971,
               "loc": {
                 "start": {
                   "line": 15,
@@ -907,9 +907,9 @@
         "trailingComments": [
           {
             "type": "CommentBlock",
-            "value": "*\n * Component displaying a header for {@link ArtistPage}\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1blw6wW1IkP-TcNxOzJK3UEaeHLoVvAgp\" alt=\"ArtworkPage\" height=\"500\">\n * @param {HeaderArtistNonUserProps} props\n * @param {string} props.imageUri - URI of the banner\n * @param {string} props.artistName - Name of the artist\n * @param {Animated.Value} props.scrollY - Value of the scroll position\n * @param {boolean} props.onClickImage - Visibility OnClickImageModal\n * @param {void} props.setOnClickImage - Toggles visibility OnClickImageModal\n * @constructor\n * @return HeaderComponent\n ",
-            "start": 364,
-            "end": 970,
+            "value": "*\n * Component displaying a header for {@link ArtistPage}\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1blw6wW1IkP-TcNxOzJK3UEaeHLoVvAgp\" alt=\"ArtworkPage\" height=\"200\">\n * @param {HeaderArtistNonUserProps} props\n * @param {string} props.imageUri - URI of the banner\n * @param {string} props.artistName - Name of the artist\n * @param {Animated.Value} props.scrollY - Value of the scroll position\n * @param {boolean} props.onClickImage - Visibility OnClickImageModal\n * @param {void} props.setOnClickImage - Toggles visibility OnClickImageModal\n * @constructor\n * @return HeaderComponent\n ",
+            "start": 365,
+            "end": 971,
             "loc": {
               "start": {
                 "line": 15,
@@ -925,8 +925,8 @@
       },
       {
         "type": "ExportDefaultDeclaration",
-        "start": 971,
-        "end": 1366,
+        "start": 972,
+        "end": 1367,
         "loc": {
           "start": {
             "line": 28,
@@ -939,8 +939,8 @@
         },
         "declaration": {
           "type": "FunctionDeclaration",
-          "start": 986,
-          "end": 1366,
+          "start": 987,
+          "end": 1367,
           "loc": {
             "start": {
               "line": 28,
@@ -953,8 +953,8 @@
           },
           "id": {
             "type": "Identifier",
-            "start": 995,
-            "end": 1014,
+            "start": 996,
+            "end": 1015,
             "loc": {
               "start": {
                 "line": 28,
@@ -975,8 +975,8 @@
           "params": [
             {
               "type": "Identifier",
-              "start": 1015,
-              "end": 1046,
+              "start": 1016,
+              "end": 1047,
               "loc": {
                 "start": {
                   "line": 28,
@@ -991,8 +991,8 @@
               "name": "props",
               "typeAnnotation": {
                 "type": "TypeAnnotation",
-                "start": 1020,
-                "end": 1046,
+                "start": 1021,
+                "end": 1047,
                 "loc": {
                   "start": {
                     "line": 28,
@@ -1005,8 +1005,8 @@
                 },
                 "typeAnnotation": {
                   "type": "GenericTypeAnnotation",
-                  "start": 1022,
-                  "end": 1046,
+                  "start": 1023,
+                  "end": 1047,
                   "loc": {
                     "start": {
                       "line": 28,
@@ -1020,8 +1020,8 @@
                   "typeParameters": null,
                   "id": {
                     "type": "Identifier",
-                    "start": 1022,
-                    "end": 1046,
+                    "start": 1023,
+                    "end": 1047,
                     "loc": {
                       "start": {
                         "line": 28,
@@ -1041,8 +1041,8 @@
           ],
           "body": {
             "type": "BlockStatement",
-            "start": 1048,
-            "end": 1366,
+            "start": 1049,
+            "end": 1367,
             "loc": {
               "start": {
                 "line": 28,
@@ -1056,8 +1056,8 @@
             "body": [
               {
                 "type": "ReturnStatement",
-                "start": 1055,
-                "end": 1364,
+                "start": 1056,
+                "end": 1365,
                 "loc": {
                   "start": {
                     "line": 30,
@@ -1070,8 +1070,8 @@
                 },
                 "argument": {
                   "type": "JSXElement",
-                  "start": 1072,
-                  "end": 1358,
+                  "start": 1073,
+                  "end": 1359,
                   "loc": {
                     "start": {
                       "line": 31,
@@ -1084,8 +1084,8 @@
                   },
                   "openingElement": {
                     "type": "JSXOpeningElement",
-                    "start": 1072,
-                    "end": 1078,
+                    "start": 1073,
+                    "end": 1079,
                     "loc": {
                       "start": {
                         "line": 31,
@@ -1099,8 +1099,8 @@
                     "attributes": [],
                     "name": {
                       "type": "JSXIdentifier",
-                      "start": 1073,
-                      "end": 1077,
+                      "start": 1074,
+                      "end": 1078,
                       "loc": {
                         "start": {
                           "line": 31,
@@ -1117,8 +1117,8 @@
                   },
                   "closingElement": {
                     "type": "JSXClosingElement",
-                    "start": 1351,
-                    "end": 1358,
+                    "start": 1352,
+                    "end": 1359,
                     "loc": {
                       "start": {
                         "line": 35,
@@ -1131,8 +1131,8 @@
                     },
                     "name": {
                       "type": "JSXIdentifier",
-                      "start": 1353,
-                      "end": 1357,
+                      "start": 1354,
+                      "end": 1358,
                       "loc": {
                         "start": {
                           "line": 35,
@@ -1149,8 +1149,8 @@
                   "children": [
                     {
                       "type": "JSXText",
-                      "start": 1078,
-                      "end": 1091,
+                      "start": 1079,
+                      "end": 1092,
                       "loc": {
                         "start": {
                           "line": 31,
@@ -1166,8 +1166,8 @@
                     },
                     {
                       "type": "JSXElement",
-                      "start": 1091,
-                      "end": 1342,
+                      "start": 1092,
+                      "end": 1343,
                       "loc": {
                         "start": {
                           "line": 32,
@@ -1180,8 +1180,8 @@
                       },
                       "openingElement": {
                         "type": "JSXOpeningElement",
-                        "start": 1091,
-                        "end": 1342,
+                        "start": 1092,
+                        "end": 1343,
                         "loc": {
                           "start": {
                             "line": 32,
@@ -1195,8 +1195,8 @@
                         "attributes": [
                           {
                             "type": "JSXAttribute",
-                            "start": 1108,
-                            "end": 1133,
+                            "start": 1109,
+                            "end": 1134,
                             "loc": {
                               "start": {
                                 "line": 32,
@@ -1209,8 +1209,8 @@
                             },
                             "name": {
                               "type": "JSXIdentifier",
-                              "start": 1108,
-                              "end": 1116,
+                              "start": 1109,
+                              "end": 1117,
                               "loc": {
                                 "start": {
                                   "line": 32,
@@ -1225,8 +1225,8 @@
                             },
                             "value": {
                               "type": "JSXExpressionContainer",
-                              "start": 1117,
-                              "end": 1133,
+                              "start": 1118,
+                              "end": 1134,
                               "loc": {
                                 "start": {
                                   "line": 32,
@@ -1239,8 +1239,8 @@
                               },
                               "expression": {
                                 "type": "MemberExpression",
-                                "start": 1118,
-                                "end": 1132,
+                                "start": 1119,
+                                "end": 1133,
                                 "loc": {
                                   "start": {
                                     "line": 32,
@@ -1253,8 +1253,8 @@
                                 },
                                 "object": {
                                   "type": "Identifier",
-                                  "start": 1118,
-                                  "end": 1123,
+                                  "start": 1119,
+                                  "end": 1124,
                                   "loc": {
                                     "start": {
                                       "line": 32,
@@ -1270,8 +1270,8 @@
                                 },
                                 "property": {
                                   "type": "Identifier",
-                                  "start": 1124,
-                                  "end": 1132,
+                                  "start": 1125,
+                                  "end": 1133,
                                   "loc": {
                                     "start": {
                                       "line": 32,
@@ -1291,8 +1291,8 @@
                           },
                           {
                             "type": "JSXAttribute",
-                            "start": 1134,
-                            "end": 1158,
+                            "start": 1135,
+                            "end": 1159,
                             "loc": {
                               "start": {
                                 "line": 32,
@@ -1305,8 +1305,8 @@
                             },
                             "name": {
                               "type": "JSXIdentifier",
-                              "start": 1134,
-                              "end": 1139,
+                              "start": 1135,
+                              "end": 1140,
                               "loc": {
                                 "start": {
                                   "line": 32,
@@ -1321,8 +1321,8 @@
                             },
                             "value": {
                               "type": "JSXExpressionContainer",
-                              "start": 1140,
-                              "end": 1158,
+                              "start": 1141,
+                              "end": 1159,
                               "loc": {
                                 "start": {
                                   "line": 32,
@@ -1335,8 +1335,8 @@
                               },
                               "expression": {
                                 "type": "MemberExpression",
-                                "start": 1141,
-                                "end": 1157,
+                                "start": 1142,
+                                "end": 1158,
                                 "loc": {
                                   "start": {
                                     "line": 32,
@@ -1349,8 +1349,8 @@
                                 },
                                 "object": {
                                   "type": "Identifier",
-                                  "start": 1141,
-                                  "end": 1146,
+                                  "start": 1142,
+                                  "end": 1147,
                                   "loc": {
                                     "start": {
                                       "line": 32,
@@ -1366,8 +1366,8 @@
                                 },
                                 "property": {
                                   "type": "Identifier",
-                                  "start": 1147,
-                                  "end": 1157,
+                                  "start": 1148,
+                                  "end": 1158,
                                   "loc": {
                                     "start": {
                                       "line": 32,
@@ -1387,8 +1387,8 @@
                           },
                           {
                             "type": "JSXAttribute",
-                            "start": 1159,
-                            "end": 1184,
+                            "start": 1160,
+                            "end": 1185,
                             "loc": {
                               "start": {
                                 "line": 32,
@@ -1401,8 +1401,8 @@
                             },
                             "name": {
                               "type": "JSXIdentifier",
-                              "start": 1159,
-                              "end": 1163,
+                              "start": 1160,
+                              "end": 1164,
                               "loc": {
                                 "start": {
                                   "line": 32,
@@ -1417,8 +1417,8 @@
                             },
                             "value": {
                               "type": "JSXExpressionContainer",
-                              "start": 1164,
-                              "end": 1184,
+                              "start": 1165,
+                              "end": 1185,
                               "loc": {
                                 "start": {
                                   "line": 32,
@@ -1431,8 +1431,8 @@
                               },
                               "expression": {
                                 "type": "MemberExpression",
-                                "start": 1165,
-                                "end": 1183,
+                                "start": 1166,
+                                "end": 1184,
                                 "loc": {
                                   "start": {
                                     "line": 32,
@@ -1445,8 +1445,8 @@
                                 },
                                 "object": {
                                   "type": "Identifier",
-                                  "start": 1165,
-                                  "end": 1175,
+                                  "start": 1166,
+                                  "end": 1176,
                                   "loc": {
                                     "start": {
                                       "line": 32,
@@ -1462,8 +1462,8 @@
                                 },
                                 "property": {
                                   "type": "Identifier",
-                                  "start": 1176,
-                                  "end": 1183,
+                                  "start": 1177,
+                                  "end": 1184,
                                   "loc": {
                                     "start": {
                                       "line": 32,
@@ -1483,8 +1483,8 @@
                           },
                           {
                             "type": "JSXAttribute",
-                            "start": 1214,
-                            "end": 1237,
+                            "start": 1215,
+                            "end": 1238,
                             "loc": {
                               "start": {
                                 "line": 33,
@@ -1497,8 +1497,8 @@
                             },
                             "name": {
                               "type": "JSXIdentifier",
-                              "start": 1214,
-                              "end": 1221,
+                              "start": 1215,
+                              "end": 1222,
                               "loc": {
                                 "start": {
                                   "line": 33,
@@ -1513,8 +1513,8 @@
                             },
                             "value": {
                               "type": "JSXExpressionContainer",
-                              "start": 1222,
-                              "end": 1237,
+                              "start": 1223,
+                              "end": 1238,
                               "loc": {
                                 "start": {
                                   "line": 33,
@@ -1527,8 +1527,8 @@
                               },
                               "expression": {
                                 "type": "MemberExpression",
-                                "start": 1223,
-                                "end": 1236,
+                                "start": 1224,
+                                "end": 1237,
                                 "loc": {
                                   "start": {
                                     "line": 33,
@@ -1541,8 +1541,8 @@
                                 },
                                 "object": {
                                   "type": "Identifier",
-                                  "start": 1223,
-                                  "end": 1228,
+                                  "start": 1224,
+                                  "end": 1229,
                                   "loc": {
                                     "start": {
                                       "line": 33,
@@ -1558,8 +1558,8 @@
                                 },
                                 "property": {
                                   "type": "Identifier",
-                                  "start": 1229,
-                                  "end": 1236,
+                                  "start": 1230,
+                                  "end": 1237,
                                   "loc": {
                                     "start": {
                                       "line": 33,
@@ -1579,8 +1579,8 @@
                           },
                           {
                             "type": "JSXAttribute",
-                            "start": 1238,
-                            "end": 1271,
+                            "start": 1239,
+                            "end": 1272,
                             "loc": {
                               "start": {
                                 "line": 33,
@@ -1593,8 +1593,8 @@
                             },
                             "name": {
                               "type": "JSXIdentifier",
-                              "start": 1238,
-                              "end": 1250,
+                              "start": 1239,
+                              "end": 1251,
                               "loc": {
                                 "start": {
                                   "line": 33,
@@ -1609,8 +1609,8 @@
                             },
                             "value": {
                               "type": "JSXExpressionContainer",
-                              "start": 1251,
-                              "end": 1271,
+                              "start": 1252,
+                              "end": 1272,
                               "loc": {
                                 "start": {
                                   "line": 33,
@@ -1623,8 +1623,8 @@
                               },
                               "expression": {
                                 "type": "MemberExpression",
-                                "start": 1252,
-                                "end": 1270,
+                                "start": 1253,
+                                "end": 1271,
                                 "loc": {
                                   "start": {
                                     "line": 33,
@@ -1637,8 +1637,8 @@
                                 },
                                 "object": {
                                   "type": "Identifier",
-                                  "start": 1252,
-                                  "end": 1257,
+                                  "start": 1253,
+                                  "end": 1258,
                                   "loc": {
                                     "start": {
                                       "line": 33,
@@ -1654,8 +1654,8 @@
                                 },
                                 "property": {
                                   "type": "Identifier",
-                                  "start": 1258,
-                                  "end": 1270,
+                                  "start": 1259,
+                                  "end": 1271,
                                   "loc": {
                                     "start": {
                                       "line": 33,
@@ -1675,8 +1675,8 @@
                           },
                           {
                             "type": "JSXAttribute",
-                            "start": 1301,
-                            "end": 1340,
+                            "start": 1302,
+                            "end": 1341,
                             "loc": {
                               "start": {
                                 "line": 34,
@@ -1689,8 +1689,8 @@
                             },
                             "name": {
                               "type": "JSXIdentifier",
-                              "start": 1301,
-                              "end": 1316,
+                              "start": 1302,
+                              "end": 1317,
                               "loc": {
                                 "start": {
                                   "line": 34,
@@ -1705,8 +1705,8 @@
                             },
                             "value": {
                               "type": "JSXExpressionContainer",
-                              "start": 1317,
-                              "end": 1340,
+                              "start": 1318,
+                              "end": 1341,
                               "loc": {
                                 "start": {
                                   "line": 34,
@@ -1719,8 +1719,8 @@
                               },
                               "expression": {
                                 "type": "MemberExpression",
-                                "start": 1318,
-                                "end": 1339,
+                                "start": 1319,
+                                "end": 1340,
                                 "loc": {
                                   "start": {
                                     "line": 34,
@@ -1733,8 +1733,8 @@
                                 },
                                 "object": {
                                   "type": "Identifier",
-                                  "start": 1318,
-                                  "end": 1323,
+                                  "start": 1319,
+                                  "end": 1324,
                                   "loc": {
                                     "start": {
                                       "line": 34,
@@ -1750,8 +1750,8 @@
                                 },
                                 "property": {
                                   "type": "Identifier",
-                                  "start": 1324,
-                                  "end": 1339,
+                                  "start": 1325,
+                                  "end": 1340,
                                   "loc": {
                                     "start": {
                                       "line": 34,
@@ -1772,8 +1772,8 @@
                         ],
                         "name": {
                           "type": "JSXIdentifier",
-                          "start": 1092,
-                          "end": 1107,
+                          "start": 1093,
+                          "end": 1108,
                           "loc": {
                             "start": {
                               "line": 32,
@@ -1793,8 +1793,8 @@
                     },
                     {
                       "type": "JSXText",
-                      "start": 1342,
-                      "end": 1351,
+                      "start": 1343,
+                      "end": 1352,
                       "loc": {
                         "start": {
                           "line": 34,
@@ -1811,7 +1811,7 @@
                   ],
                   "extra": {
                     "parenthesized": true,
-                    "parenStart": 1062
+                    "parenStart": 1063
                   }
                 }
               }
@@ -1825,9 +1825,9 @@
             },
             {
               "type": "CommentBlock",
-              "value": "*\n * Component displaying a header for {@link ArtistPage}\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1blw6wW1IkP-TcNxOzJK3UEaeHLoVvAgp\" alt=\"ArtworkPage\" height=\"500\">\n * @param {HeaderArtistNonUserProps} props\n * @param {string} props.imageUri - URI of the banner\n * @param {string} props.artistName - Name of the artist\n * @param {Animated.Value} props.scrollY - Value of the scroll position\n * @param {boolean} props.onClickImage - Visibility OnClickImageModal\n * @param {void} props.setOnClickImage - Toggles visibility OnClickImageModal\n * @constructor\n * @return HeaderComponent\n ",
-              "start": 364,
-              "end": 970,
+              "value": "*\n * Component displaying a header for {@link ArtistPage}\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1blw6wW1IkP-TcNxOzJK3UEaeHLoVvAgp\" alt=\"ArtworkPage\" height=\"200\">\n * @param {HeaderArtistNonUserProps} props\n * @param {string} props.imageUri - URI of the banner\n * @param {string} props.artistName - Name of the artist\n * @param {Animated.Value} props.scrollY - Value of the scroll position\n * @param {boolean} props.onClickImage - Visibility OnClickImageModal\n * @param {void} props.setOnClickImage - Toggles visibility OnClickImageModal\n * @constructor\n * @return HeaderComponent\n ",
+              "start": 365,
+              "end": 971,
               "loc": {
                 "start": {
                   "line": 15,
@@ -1845,9 +1845,9 @@
         "leadingComments": [
           {
             "type": "CommentBlock",
-            "value": "*\n * Component displaying a header for {@link ArtistPage}\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1blw6wW1IkP-TcNxOzJK3UEaeHLoVvAgp\" alt=\"ArtworkPage\" height=\"500\">\n * @param {HeaderArtistNonUserProps} props\n * @param {string} props.imageUri - URI of the banner\n * @param {string} props.artistName - Name of the artist\n * @param {Animated.Value} props.scrollY - Value of the scroll position\n * @param {boolean} props.onClickImage - Visibility OnClickImageModal\n * @param {void} props.setOnClickImage - Toggles visibility OnClickImageModal\n * @constructor\n * @return HeaderComponent\n ",
-            "start": 364,
-            "end": 970,
+            "value": "*\n * Component displaying a header for {@link ArtistPage}\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1blw6wW1IkP-TcNxOzJK3UEaeHLoVvAgp\" alt=\"ArtworkPage\" height=\"200\">\n * @param {HeaderArtistNonUserProps} props\n * @param {string} props.imageUri - URI of the banner\n * @param {string} props.artistName - Name of the artist\n * @param {Animated.Value} props.scrollY - Value of the scroll position\n * @param {boolean} props.onClickImage - Visibility OnClickImageModal\n * @param {void} props.setOnClickImage - Toggles visibility OnClickImageModal\n * @constructor\n * @return HeaderComponent\n ",
+            "start": 365,
+            "end": 971,
             "loc": {
               "start": {
                 "line": 15,
@@ -1883,9 +1883,9 @@
     },
     {
       "type": "CommentBlock",
-      "value": "*\n * Component displaying a header for {@link ArtistPage}\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1blw6wW1IkP-TcNxOzJK3UEaeHLoVvAgp\" alt=\"ArtworkPage\" height=\"500\">\n * @param {HeaderArtistNonUserProps} props\n * @param {string} props.imageUri - URI of the banner\n * @param {string} props.artistName - Name of the artist\n * @param {Animated.Value} props.scrollY - Value of the scroll position\n * @param {boolean} props.onClickImage - Visibility OnClickImageModal\n * @param {void} props.setOnClickImage - Toggles visibility OnClickImageModal\n * @constructor\n * @return HeaderComponent\n ",
-      "start": 364,
-      "end": 970,
+      "value": "*\n * Component displaying a header for {@link ArtistPage}\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1blw6wW1IkP-TcNxOzJK3UEaeHLoVvAgp\" alt=\"ArtworkPage\" height=\"200\">\n * @param {HeaderArtistNonUserProps} props\n * @param {string} props.imageUri - URI of the banner\n * @param {string} props.artistName - Name of the artist\n * @param {Animated.Value} props.scrollY - Value of the scroll position\n * @param {boolean} props.onClickImage - Visibility OnClickImageModal\n * @param {void} props.setOnClickImage - Toggles visibility OnClickImageModal\n * @constructor\n * @return HeaderComponent\n ",
+      "start": 365,
+      "end": 971,
       "loc": {
         "start": {
           "line": 15,
@@ -2967,7 +2967,7 @@
     },
     {
       "type": {
-        "label": ":",
+        "label": "?",
         "beforeExpr": true,
         "startsExpr": false,
         "rightAssociative": false,
@@ -2993,6 +2993,32 @@
     },
     {
       "type": {
+        "label": ":",
+        "beforeExpr": true,
+        "startsExpr": false,
+        "rightAssociative": false,
+        "isLoop": false,
+        "isAssign": false,
+        "prefix": false,
+        "postfix": false,
+        "binop": null,
+        "updateContext": null
+      },
+      "start": 267,
+      "end": 268,
+      "loc": {
+        "start": {
+          "line": 10,
+          "column": 12
+        },
+        "end": {
+          "line": 10,
+          "column": 13
+        }
+      }
+    },
+    {
+      "type": {
         "label": "name",
         "beforeExpr": false,
         "startsExpr": true,
@@ -3004,16 +3030,16 @@
         "binop": null
       },
       "value": "Animated",
-      "start": 268,
-      "end": 276,
+      "start": 269,
+      "end": 277,
       "loc": {
         "start": {
           "line": 10,
-          "column": 13
+          "column": 14
         },
         "end": {
           "line": 10,
-          "column": 21
+          "column": 22
         }
       }
     },
@@ -3030,16 +3056,16 @@
         "binop": null,
         "updateContext": null
       },
-      "start": 276,
-      "end": 277,
+      "start": 277,
+      "end": 278,
       "loc": {
         "start": {
           "line": 10,
-          "column": 21
+          "column": 22
         },
         "end": {
           "line": 10,
-          "column": 22
+          "column": 23
         }
       }
     },
@@ -3056,16 +3082,16 @@
         "binop": null
       },
       "value": "Value",
-      "start": 277,
-      "end": 282,
+      "start": 278,
+      "end": 283,
       "loc": {
         "start": {
           "line": 10,
-          "column": 22
+          "column": 23
         },
         "end": {
           "line": 10,
-          "column": 27
+          "column": 28
         }
       }
     },
@@ -3082,16 +3108,16 @@
         "binop": null,
         "updateContext": null
       },
-      "start": 282,
-      "end": 283,
+      "start": 283,
+      "end": 284,
       "loc": {
         "start": {
           "line": 10,
-          "column": 27
+          "column": 28
         },
         "end": {
           "line": 10,
-          "column": 28
+          "column": 29
         }
       }
     },
@@ -3108,8 +3134,8 @@
         "binop": null
       },
       "value": "onClickImage",
-      "start": 288,
-      "end": 300,
+      "start": 289,
+      "end": 301,
       "loc": {
         "start": {
           "line": 11,
@@ -3134,8 +3160,8 @@
         "binop": null,
         "updateContext": null
       },
-      "start": 300,
-      "end": 301,
+      "start": 301,
+      "end": 302,
       "loc": {
         "start": {
           "line": 11,
@@ -3160,8 +3186,8 @@
         "binop": null
       },
       "value": "boolean",
-      "start": 302,
-      "end": 309,
+      "start": 303,
+      "end": 310,
       "loc": {
         "start": {
           "line": 11,
@@ -3186,8 +3212,8 @@
         "binop": null,
         "updateContext": null
       },
-      "start": 309,
-      "end": 310,
+      "start": 310,
+      "end": 311,
       "loc": {
         "start": {
           "line": 11,
@@ -3212,8 +3238,8 @@
         "binop": null
       },
       "value": "setOnClickImage",
-      "start": 315,
-      "end": 330,
+      "start": 316,
+      "end": 331,
       "loc": {
         "start": {
           "line": 12,
@@ -3237,8 +3263,8 @@
         "postfix": false,
         "binop": null
       },
-      "start": 330,
-      "end": 331,
+      "start": 331,
+      "end": 332,
       "loc": {
         "start": {
           "line": 12,
@@ -3263,8 +3289,8 @@
         "binop": null
       },
       "value": "onClickImage",
-      "start": 331,
-      "end": 343,
+      "start": 332,
+      "end": 344,
       "loc": {
         "start": {
           "line": 12,
@@ -3289,8 +3315,8 @@
         "binop": null,
         "updateContext": null
       },
-      "start": 343,
-      "end": 344,
+      "start": 344,
+      "end": 345,
       "loc": {
         "start": {
           "line": 12,
@@ -3315,8 +3341,8 @@
         "binop": null
       },
       "value": "boolean",
-      "start": 345,
-      "end": 352,
+      "start": 346,
+      "end": 353,
       "loc": {
         "start": {
           "line": 12,
@@ -3340,8 +3366,8 @@
         "postfix": false,
         "binop": null
       },
-      "start": 352,
-      "end": 353,
+      "start": 353,
+      "end": 354,
       "loc": {
         "start": {
           "line": 12,
@@ -3366,8 +3392,8 @@
         "binop": null,
         "updateContext": null
       },
-      "start": 353,
-      "end": 354,
+      "start": 354,
+      "end": 355,
       "loc": {
         "start": {
           "line": 12,
@@ -3392,8 +3418,8 @@
         "binop": null
       },
       "value": "void",
-      "start": 355,
-      "end": 359,
+      "start": 356,
+      "end": 360,
       "loc": {
         "start": {
           "line": 12,
@@ -3418,8 +3444,8 @@
         "binop": null,
         "updateContext": null
       },
-      "start": 359,
-      "end": 360,
+      "start": 360,
+      "end": 361,
       "loc": {
         "start": {
           "line": 12,
@@ -3443,8 +3469,8 @@
         "postfix": false,
         "binop": null
       },
-      "start": 361,
-      "end": 362,
+      "start": 362,
+      "end": 363,
       "loc": {
         "start": {
           "line": 13,
@@ -3458,9 +3484,9 @@
     },
     {
       "type": "CommentBlock",
-      "value": "*\n * Component displaying a header for {@link ArtistPage}\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1blw6wW1IkP-TcNxOzJK3UEaeHLoVvAgp\" alt=\"ArtworkPage\" height=\"500\">\n * @param {HeaderArtistNonUserProps} props\n * @param {string} props.imageUri - URI of the banner\n * @param {string} props.artistName - Name of the artist\n * @param {Animated.Value} props.scrollY - Value of the scroll position\n * @param {boolean} props.onClickImage - Visibility OnClickImageModal\n * @param {void} props.setOnClickImage - Toggles visibility OnClickImageModal\n * @constructor\n * @return HeaderComponent\n ",
-      "start": 364,
-      "end": 970,
+      "value": "*\n * Component displaying a header for {@link ArtistPage}\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1blw6wW1IkP-TcNxOzJK3UEaeHLoVvAgp\" alt=\"ArtworkPage\" height=\"200\">\n * @param {HeaderArtistNonUserProps} props\n * @param {string} props.imageUri - URI of the banner\n * @param {string} props.artistName - Name of the artist\n * @param {Animated.Value} props.scrollY - Value of the scroll position\n * @param {boolean} props.onClickImage - Visibility OnClickImageModal\n * @param {void} props.setOnClickImage - Toggles visibility OnClickImageModal\n * @constructor\n * @return HeaderComponent\n ",
+      "start": 365,
+      "end": 971,
       "loc": {
         "start": {
           "line": 15,
@@ -3487,8 +3513,8 @@
         "updateContext": null
       },
       "value": "export",
-      "start": 971,
-      "end": 977,
+      "start": 972,
+      "end": 978,
       "loc": {
         "start": {
           "line": 28,
@@ -3515,8 +3541,8 @@
         "updateContext": null
       },
       "value": "default",
-      "start": 978,
-      "end": 985,
+      "start": 979,
+      "end": 986,
       "loc": {
         "start": {
           "line": 28,
@@ -3542,8 +3568,8 @@
         "binop": null
       },
       "value": "function",
-      "start": 986,
-      "end": 994,
+      "start": 987,
+      "end": 995,
       "loc": {
         "start": {
           "line": 28,
@@ -3568,8 +3594,8 @@
         "binop": null
       },
       "value": "HeaderArtistNonUser",
-      "start": 995,
-      "end": 1014,
+      "start": 996,
+      "end": 1015,
       "loc": {
         "start": {
           "line": 28,
@@ -3593,8 +3619,8 @@
         "postfix": false,
         "binop": null
       },
-      "start": 1014,
-      "end": 1015,
+      "start": 1015,
+      "end": 1016,
       "loc": {
         "start": {
           "line": 28,
@@ -3619,8 +3645,8 @@
         "binop": null
       },
       "value": "props",
-      "start": 1015,
-      "end": 1020,
+      "start": 1016,
+      "end": 1021,
       "loc": {
         "start": {
           "line": 28,
@@ -3645,8 +3671,8 @@
         "binop": null,
         "updateContext": null
       },
-      "start": 1020,
-      "end": 1021,
+      "start": 1021,
+      "end": 1022,
       "loc": {
         "start": {
           "line": 28,
@@ -3671,8 +3697,8 @@
         "binop": null
       },
       "value": "HeaderArtistNonUserProps",
-      "start": 1022,
-      "end": 1046,
+      "start": 1023,
+      "end": 1047,
       "loc": {
         "start": {
           "line": 28,
@@ -3696,8 +3722,8 @@
         "postfix": false,
         "binop": null
       },
-      "start": 1046,
-      "end": 1047,
+      "start": 1047,
+      "end": 1048,
       "loc": {
         "start": {
           "line": 28,
@@ -3721,8 +3747,8 @@
         "postfix": false,
         "binop": null
       },
-      "start": 1048,
-      "end": 1049,
+      "start": 1049,
+      "end": 1050,
       "loc": {
         "start": {
           "line": 28,
@@ -3749,8 +3775,8 @@
         "updateContext": null
       },
       "value": "return",
-      "start": 1055,
-      "end": 1061,
+      "start": 1056,
+      "end": 1062,
       "loc": {
         "start": {
           "line": 30,
@@ -3774,8 +3800,8 @@
         "postfix": false,
         "binop": null
       },
-      "start": 1062,
-      "end": 1063,
+      "start": 1063,
+      "end": 1064,
       "loc": {
         "start": {
           "line": 30,
@@ -3799,8 +3825,8 @@
         "postfix": false,
         "binop": null
       },
-      "start": 1072,
-      "end": 1073,
+      "start": 1073,
+      "end": 1074,
       "loc": {
         "start": {
           "line": 31,
@@ -3826,8 +3852,8 @@
         "updateContext": null
       },
       "value": "View",
-      "start": 1073,
-      "end": 1077,
+      "start": 1074,
+      "end": 1078,
       "loc": {
         "start": {
           "line": 31,
@@ -3851,8 +3877,8 @@
         "postfix": false,
         "binop": null
       },
-      "start": 1077,
-      "end": 1078,
+      "start": 1078,
+      "end": 1079,
       "loc": {
         "start": {
           "line": 31,
@@ -3878,8 +3904,8 @@
         "updateContext": null
       },
       "value": "\n            ",
-      "start": 1078,
-      "end": 1091,
+      "start": 1079,
+      "end": 1092,
       "loc": {
         "start": {
           "line": 31,
@@ -3903,8 +3929,8 @@
         "postfix": false,
         "binop": null
       },
-      "start": 1091,
-      "end": 1092,
+      "start": 1092,
+      "end": 1093,
       "loc": {
         "start": {
           "line": 32,
@@ -3930,8 +3956,8 @@
         "updateContext": null
       },
       "value": "HeaderComponent",
-      "start": 1092,
-      "end": 1107,
+      "start": 1093,
+      "end": 1108,
       "loc": {
         "start": {
           "line": 32,
@@ -3957,8 +3983,8 @@
         "updateContext": null
       },
       "value": "imageUri",
-      "start": 1108,
-      "end": 1116,
+      "start": 1109,
+      "end": 1117,
       "loc": {
         "start": {
           "line": 32,
@@ -3984,8 +4010,8 @@
         "updateContext": null
       },
       "value": "=",
-      "start": 1116,
-      "end": 1117,
+      "start": 1117,
+      "end": 1118,
       "loc": {
         "start": {
           "line": 32,
@@ -4009,8 +4035,8 @@
         "postfix": false,
         "binop": null
       },
-      "start": 1117,
-      "end": 1118,
+      "start": 1118,
+      "end": 1119,
       "loc": {
         "start": {
           "line": 32,
@@ -4035,8 +4061,8 @@
         "binop": null
       },
       "value": "props",
-      "start": 1118,
-      "end": 1123,
+      "start": 1119,
+      "end": 1124,
       "loc": {
         "start": {
           "line": 32,
@@ -4061,8 +4087,8 @@
         "binop": null,
         "updateContext": null
       },
-      "start": 1123,
-      "end": 1124,
+      "start": 1124,
+      "end": 1125,
       "loc": {
         "start": {
           "line": 32,
@@ -4087,8 +4113,8 @@
         "binop": null
       },
       "value": "imageUri",
-      "start": 1124,
-      "end": 1132,
+      "start": 1125,
+      "end": 1133,
       "loc": {
         "start": {
           "line": 32,
@@ -4112,8 +4138,8 @@
         "postfix": false,
         "binop": null
       },
-      "start": 1132,
-      "end": 1133,
+      "start": 1133,
+      "end": 1134,
       "loc": {
         "start": {
           "line": 32,
@@ -4139,8 +4165,8 @@
         "updateContext": null
       },
       "value": "title",
-      "start": 1134,
-      "end": 1139,
+      "start": 1135,
+      "end": 1140,
       "loc": {
         "start": {
           "line": 32,
@@ -4166,8 +4192,8 @@
         "updateContext": null
       },
       "value": "=",
-      "start": 1139,
-      "end": 1140,
+      "start": 1140,
+      "end": 1141,
       "loc": {
         "start": {
           "line": 32,
@@ -4191,8 +4217,8 @@
         "postfix": false,
         "binop": null
       },
-      "start": 1140,
-      "end": 1141,
+      "start": 1141,
+      "end": 1142,
       "loc": {
         "start": {
           "line": 32,
@@ -4217,8 +4243,8 @@
         "binop": null
       },
       "value": "props",
-      "start": 1141,
-      "end": 1146,
+      "start": 1142,
+      "end": 1147,
       "loc": {
         "start": {
           "line": 32,
@@ -4243,8 +4269,8 @@
         "binop": null,
         "updateContext": null
       },
-      "start": 1146,
-      "end": 1147,
+      "start": 1147,
+      "end": 1148,
       "loc": {
         "start": {
           "line": 32,
@@ -4269,8 +4295,8 @@
         "binop": null
       },
       "value": "artistName",
-      "start": 1147,
-      "end": 1157,
+      "start": 1148,
+      "end": 1158,
       "loc": {
         "start": {
           "line": 32,
@@ -4294,8 +4320,8 @@
         "postfix": false,
         "binop": null
       },
-      "start": 1157,
-      "end": 1158,
+      "start": 1158,
+      "end": 1159,
       "loc": {
         "start": {
           "line": 32,
@@ -4321,8 +4347,8 @@
         "updateContext": null
       },
       "value": "type",
-      "start": 1159,
-      "end": 1163,
+      "start": 1160,
+      "end": 1164,
       "loc": {
         "start": {
           "line": 32,
@@ -4348,8 +4374,8 @@
         "updateContext": null
       },
       "value": "=",
-      "start": 1163,
-      "end": 1164,
+      "start": 1164,
+      "end": 1165,
       "loc": {
         "start": {
           "line": 32,
@@ -4373,8 +4399,8 @@
         "postfix": false,
         "binop": null
       },
-      "start": 1164,
-      "end": 1165,
+      "start": 1165,
+      "end": 1166,
       "loc": {
         "start": {
           "line": 32,
@@ -4399,8 +4425,8 @@
         "binop": null
       },
       "value": "HeaderType",
-      "start": 1165,
-      "end": 1175,
+      "start": 1166,
+      "end": 1176,
       "loc": {
         "start": {
           "line": 32,
@@ -4425,8 +4451,8 @@
         "binop": null,
         "updateContext": null
       },
-      "start": 1175,
-      "end": 1176,
+      "start": 1176,
+      "end": 1177,
       "loc": {
         "start": {
           "line": 32,
@@ -4451,8 +4477,8 @@
         "binop": null
       },
       "value": "NonUser",
-      "start": 1176,
-      "end": 1183,
+      "start": 1177,
+      "end": 1184,
       "loc": {
         "start": {
           "line": 32,
@@ -4476,8 +4502,8 @@
         "postfix": false,
         "binop": null
       },
-      "start": 1183,
-      "end": 1184,
+      "start": 1184,
+      "end": 1185,
       "loc": {
         "start": {
           "line": 32,
@@ -4503,8 +4529,8 @@
         "updateContext": null
       },
       "value": "scrollY",
-      "start": 1214,
-      "end": 1221,
+      "start": 1215,
+      "end": 1222,
       "loc": {
         "start": {
           "line": 33,
@@ -4530,8 +4556,8 @@
         "updateContext": null
       },
       "value": "=",
-      "start": 1221,
-      "end": 1222,
+      "start": 1222,
+      "end": 1223,
       "loc": {
         "start": {
           "line": 33,
@@ -4555,8 +4581,8 @@
         "postfix": false,
         "binop": null
       },
-      "start": 1222,
-      "end": 1223,
+      "start": 1223,
+      "end": 1224,
       "loc": {
         "start": {
           "line": 33,
@@ -4581,8 +4607,8 @@
         "binop": null
       },
       "value": "props",
-      "start": 1223,
-      "end": 1228,
+      "start": 1224,
+      "end": 1229,
       "loc": {
         "start": {
           "line": 33,
@@ -4607,8 +4633,8 @@
         "binop": null,
         "updateContext": null
       },
-      "start": 1228,
-      "end": 1229,
+      "start": 1229,
+      "end": 1230,
       "loc": {
         "start": {
           "line": 33,
@@ -4633,8 +4659,8 @@
         "binop": null
       },
       "value": "scrollY",
-      "start": 1229,
-      "end": 1236,
+      "start": 1230,
+      "end": 1237,
       "loc": {
         "start": {
           "line": 33,
@@ -4658,8 +4684,8 @@
         "postfix": false,
         "binop": null
       },
-      "start": 1236,
-      "end": 1237,
+      "start": 1237,
+      "end": 1238,
       "loc": {
         "start": {
           "line": 33,
@@ -4685,8 +4711,8 @@
         "updateContext": null
       },
       "value": "onClickImage",
-      "start": 1238,
-      "end": 1250,
+      "start": 1239,
+      "end": 1251,
       "loc": {
         "start": {
           "line": 33,
@@ -4712,8 +4738,8 @@
         "updateContext": null
       },
       "value": "=",
-      "start": 1250,
-      "end": 1251,
+      "start": 1251,
+      "end": 1252,
       "loc": {
         "start": {
           "line": 33,
@@ -4737,8 +4763,8 @@
         "postfix": false,
         "binop": null
       },
-      "start": 1251,
-      "end": 1252,
+      "start": 1252,
+      "end": 1253,
       "loc": {
         "start": {
           "line": 33,
@@ -4763,8 +4789,8 @@
         "binop": null
       },
       "value": "props",
-      "start": 1252,
-      "end": 1257,
+      "start": 1253,
+      "end": 1258,
       "loc": {
         "start": {
           "line": 33,
@@ -4789,8 +4815,8 @@
         "binop": null,
         "updateContext": null
       },
-      "start": 1257,
-      "end": 1258,
+      "start": 1258,
+      "end": 1259,
       "loc": {
         "start": {
           "line": 33,
@@ -4815,8 +4841,8 @@
         "binop": null
       },
       "value": "onClickImage",
-      "start": 1258,
-      "end": 1270,
+      "start": 1259,
+      "end": 1271,
       "loc": {
         "start": {
           "line": 33,
@@ -4840,8 +4866,8 @@
         "postfix": false,
         "binop": null
       },
-      "start": 1270,
-      "end": 1271,
+      "start": 1271,
+      "end": 1272,
       "loc": {
         "start": {
           "line": 33,
@@ -4867,8 +4893,8 @@
         "updateContext": null
       },
       "value": "setOnClickImage",
-      "start": 1301,
-      "end": 1316,
+      "start": 1302,
+      "end": 1317,
       "loc": {
         "start": {
           "line": 34,
@@ -4894,8 +4920,8 @@
         "updateContext": null
       },
       "value": "=",
-      "start": 1316,
-      "end": 1317,
+      "start": 1317,
+      "end": 1318,
       "loc": {
         "start": {
           "line": 34,
@@ -4919,8 +4945,8 @@
         "postfix": false,
         "binop": null
       },
-      "start": 1317,
-      "end": 1318,
+      "start": 1318,
+      "end": 1319,
       "loc": {
         "start": {
           "line": 34,
@@ -4945,8 +4971,8 @@
         "binop": null
       },
       "value": "props",
-      "start": 1318,
-      "end": 1323,
+      "start": 1319,
+      "end": 1324,
       "loc": {
         "start": {
           "line": 34,
@@ -4971,8 +4997,8 @@
         "binop": null,
         "updateContext": null
       },
-      "start": 1323,
-      "end": 1324,
+      "start": 1324,
+      "end": 1325,
       "loc": {
         "start": {
           "line": 34,
@@ -4997,8 +5023,8 @@
         "binop": null
       },
       "value": "setOnClickImage",
-      "start": 1324,
-      "end": 1339,
+      "start": 1325,
+      "end": 1340,
       "loc": {
         "start": {
           "line": 34,
@@ -5022,8 +5048,8 @@
         "postfix": false,
         "binop": null
       },
-      "start": 1339,
-      "end": 1340,
+      "start": 1340,
+      "end": 1341,
       "loc": {
         "start": {
           "line": 34,
@@ -5049,8 +5075,8 @@
         "updateContext": null
       },
       "value": "/",
-      "start": 1340,
-      "end": 1341,
+      "start": 1341,
+      "end": 1342,
       "loc": {
         "start": {
           "line": 34,
@@ -5074,8 +5100,8 @@
         "postfix": false,
         "binop": null
       },
-      "start": 1341,
-      "end": 1342,
+      "start": 1342,
+      "end": 1343,
       "loc": {
         "start": {
           "line": 34,
@@ -5101,8 +5127,8 @@
         "updateContext": null
       },
       "value": "\n        ",
-      "start": 1342,
-      "end": 1351,
+      "start": 1343,
+      "end": 1352,
       "loc": {
         "start": {
           "line": 34,
@@ -5126,8 +5152,8 @@
         "postfix": false,
         "binop": null
       },
-      "start": 1351,
-      "end": 1352,
+      "start": 1352,
+      "end": 1353,
       "loc": {
         "start": {
           "line": 35,
@@ -5153,8 +5179,8 @@
         "updateContext": null
       },
       "value": "/",
-      "start": 1352,
-      "end": 1353,
+      "start": 1353,
+      "end": 1354,
       "loc": {
         "start": {
           "line": 35,
@@ -5180,8 +5206,8 @@
         "updateContext": null
       },
       "value": "View",
-      "start": 1353,
-      "end": 1357,
+      "start": 1354,
+      "end": 1358,
       "loc": {
         "start": {
           "line": 35,
@@ -5205,8 +5231,8 @@
         "postfix": false,
         "binop": null
       },
-      "start": 1357,
-      "end": 1358,
+      "start": 1358,
+      "end": 1359,
       "loc": {
         "start": {
           "line": 35,
@@ -5230,8 +5256,8 @@
         "postfix": false,
         "binop": null
       },
-      "start": 1363,
-      "end": 1364,
+      "start": 1364,
+      "end": 1365,
       "loc": {
         "start": {
           "line": 36,
@@ -5255,8 +5281,8 @@
         "postfix": false,
         "binop": null
       },
-      "start": 1365,
-      "end": 1366,
+      "start": 1366,
+      "end": 1367,
       "loc": {
         "start": {
           "line": 37,
@@ -5281,8 +5307,8 @@
         "binop": null,
         "updateContext": null
       },
-      "start": 1366,
-      "end": 1366,
+      "start": 1367,
+      "end": 1367,
       "loc": {
         "start": {
           "line": 37,

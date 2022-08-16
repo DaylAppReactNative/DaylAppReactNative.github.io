@@ -1,5 +1,51 @@
 [
   {
+    "name": "LikedArtworksCarousel",
+    "filePath": "src/components/ArtworkCarouselSingle/LikedArtworksCarousel/index.tsx",
+    "lines": [
+      {
+        "lineNumber": 11,
+        "line": "/**"
+      },
+      {
+        "lineNumber": 12,
+        "line": " * Component displaying an {@link ArtworkCarouselSingle} of liked artworks"
+      },
+      {
+        "lineNumber": 13,
+        "line": " *"
+      },
+      {
+        "lineNumber": 14,
+        "line": " * <img src=\"https://drive.google.com/uc?export=view&id=17_yTpjYuS72FhFQ6SZGlj8Opw5MBNRSe\" alt=\"ArtworkPage\" height=\"200\">"
+      },
+      {
+        "lineNumber": 15,
+        "line": " * @constructor"
+      },
+      {
+        "lineNumber": 16,
+        "line": " * @param {string} props.id - ID of the user"
+      },
+      {
+        "lineNumber": 17,
+        "line": " * @return LikedArtworksCarousel"
+      },
+      {
+        "lineNumber": 18,
+        "line": " */"
+      },
+      {
+        "lineNumber": 19,
+        "line": "const LikedArtworksCarousel = (props : LikedArtworksCarouselProps) => {"
+      }
+    ],
+    "codeParams": [
+      "props"
+    ],
+    "docParams": []
+  },
+  {
     "name": "MatchingByColorPage",
     "filePath": "src/screens/MatchingByColorPage.tsx",
     "lines": [

@@ -1372,7 +1372,7 @@
           "trailingComments": [
             {
               "type": "CommentBlock",
-              "value": "*\n * Component displaying a modal letting the user edit a list\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=14SY-HakPSZQbc8D2DOVFbwPzQhrUMZBr\" alt=\"ArtworkPage\" height=\"500\">\n * @param {EditListModalProps} props\n * @param {string} props.listId - ID of the list\n * @param {boolean} props.modalVisible - Visibility of the modal\n * @param {void} props.setModalVisible - Toggles the visibility of the modal\n * @constructor\n * @return Modal\n ",
+              "value": "*\n * Component displaying a modal letting the user edit a list\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1c6IeRHssXP1bXC50RlktxiE2JDBWyGJL\" alt=\"ArtworkPage\" height=\"200\">\n * @param {EditListModalProps} props\n * @param {string} props.listId - ID of the list\n * @param {boolean} props.modalVisible - Visibility of the modal\n * @param {void} props.setModalVisible - Toggles the visibility of the modal\n * @constructor\n * @return Modal\n ",
               "start": 587,
               "end": 1042,
               "loc": {
@@ -1409,7 +1409,7 @@
         "trailingComments": [
           {
             "type": "CommentBlock",
-            "value": "*\n * Component displaying a modal letting the user edit a list\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=14SY-HakPSZQbc8D2DOVFbwPzQhrUMZBr\" alt=\"ArtworkPage\" height=\"500\">\n * @param {EditListModalProps} props\n * @param {string} props.listId - ID of the list\n * @param {boolean} props.modalVisible - Visibility of the modal\n * @param {void} props.setModalVisible - Toggles the visibility of the modal\n * @constructor\n * @return Modal\n ",
+            "value": "*\n * Component displaying a modal letting the user edit a list\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1c6IeRHssXP1bXC50RlktxiE2JDBWyGJL\" alt=\"ArtworkPage\" height=\"200\">\n * @param {EditListModalProps} props\n * @param {string} props.listId - ID of the list\n * @param {boolean} props.modalVisible - Visibility of the modal\n * @param {void} props.setModalVisible - Toggles the visibility of the modal\n * @constructor\n * @return Modal\n ",
             "start": 587,
             "end": 1042,
             "loc": {
@@ -7313,7 +7313,7 @@
             },
             {
               "type": "CommentBlock",
-              "value": "*\n * Component displaying a modal letting the user edit a list\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=14SY-HakPSZQbc8D2DOVFbwPzQhrUMZBr\" alt=\"ArtworkPage\" height=\"500\">\n * @param {EditListModalProps} props\n * @param {string} props.listId - ID of the list\n * @param {boolean} props.modalVisible - Visibility of the modal\n * @param {void} props.setModalVisible - Toggles the visibility of the modal\n * @constructor\n * @return Modal\n ",
+              "value": "*\n * Component displaying a modal letting the user edit a list\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1c6IeRHssXP1bXC50RlktxiE2JDBWyGJL\" alt=\"ArtworkPage\" height=\"200\">\n * @param {EditListModalProps} props\n * @param {string} props.listId - ID of the list\n * @param {boolean} props.modalVisible - Visibility of the modal\n * @param {void} props.setModalVisible - Toggles the visibility of the modal\n * @constructor\n * @return Modal\n ",
               "start": 587,
               "end": 1042,
               "loc": {
@@ -7333,7 +7333,7 @@
         "leadingComments": [
           {
             "type": "CommentBlock",
-            "value": "*\n * Component displaying a modal letting the user edit a list\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=14SY-HakPSZQbc8D2DOVFbwPzQhrUMZBr\" alt=\"ArtworkPage\" height=\"500\">\n * @param {EditListModalProps} props\n * @param {string} props.listId - ID of the list\n * @param {boolean} props.modalVisible - Visibility of the modal\n * @param {void} props.setModalVisible - Toggles the visibility of the modal\n * @constructor\n * @return Modal\n ",
+            "value": "*\n * Component displaying a modal letting the user edit a list\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1c6IeRHssXP1bXC50RlktxiE2JDBWyGJL\" alt=\"ArtworkPage\" height=\"200\">\n * @param {EditListModalProps} props\n * @param {string} props.listId - ID of the list\n * @param {boolean} props.modalVisible - Visibility of the modal\n * @param {void} props.setModalVisible - Toggles the visibility of the modal\n * @constructor\n * @return Modal\n ",
             "start": 587,
             "end": 1042,
             "loc": {
@@ -7371,7 +7371,7 @@
     },
     {
       "type": "CommentBlock",
-      "value": "*\n * Component displaying a modal letting the user edit a list\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=14SY-HakPSZQbc8D2DOVFbwPzQhrUMZBr\" alt=\"ArtworkPage\" height=\"500\">\n * @param {EditListModalProps} props\n * @param {string} props.listId - ID of the list\n * @param {boolean} props.modalVisible - Visibility of the modal\n * @param {void} props.setModalVisible - Toggles the visibility of the modal\n * @constructor\n * @return Modal\n ",
+      "value": "*\n * Component displaying a modal letting the user edit a list\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1c6IeRHssXP1bXC50RlktxiE2JDBWyGJL\" alt=\"ArtworkPage\" height=\"200\">\n * @param {EditListModalProps} props\n * @param {string} props.listId - ID of the list\n * @param {boolean} props.modalVisible - Visibility of the modal\n * @param {void} props.setModalVisible - Toggles the visibility of the modal\n * @constructor\n * @return Modal\n ",
       "start": 587,
       "end": 1042,
       "loc": {
@@ -9972,7 +9972,7 @@
     },
     {
       "type": "CommentBlock",
-      "value": "*\n * Component displaying a modal letting the user edit a list\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=14SY-HakPSZQbc8D2DOVFbwPzQhrUMZBr\" alt=\"ArtworkPage\" height=\"500\">\n * @param {EditListModalProps} props\n * @param {string} props.listId - ID of the list\n * @param {boolean} props.modalVisible - Visibility of the modal\n * @param {void} props.setModalVisible - Toggles the visibility of the modal\n * @constructor\n * @return Modal\n ",
+      "value": "*\n * Component displaying a modal letting the user edit a list\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1c6IeRHssXP1bXC50RlktxiE2JDBWyGJL\" alt=\"ArtworkPage\" height=\"200\">\n * @param {EditListModalProps} props\n * @param {string} props.listId - ID of the list\n * @param {boolean} props.modalVisible - Visibility of the modal\n * @param {void} props.setModalVisible - Toggles the visibility of the modal\n * @constructor\n * @return Modal\n ",
       "start": 587,
       "end": 1042,
       "loc": {

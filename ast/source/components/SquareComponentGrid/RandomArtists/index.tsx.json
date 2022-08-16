@@ -516,7 +516,7 @@
         "trailingComments": [
           {
             "type": "CommentBlock",
-            "value": "*\n * Component used to display a grid of 4 random artists\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1X0y_I7F3dmmADJcxTdgsCpijOvuY7dRt\" alt=\"ArtworkPage\" height=\"500\">\n * @constructor\n * @return ArtistGrid\n ",
+            "value": "*\n * Component used to display a grid of 4 random artists\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1X0y_I7F3dmmADJcxTdgsCpijOvuY7dRt\" alt=\"ArtworkPage\" height=\"300\">\n * @constructor\n * @return ArtistGrid\n ",
             "start": 210,
             "end": 437,
             "loc": {
@@ -2472,7 +2472,7 @@
             },
             {
               "type": "CommentBlock",
-              "value": "*\n * Component used to display a grid of 4 random artists\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1X0y_I7F3dmmADJcxTdgsCpijOvuY7dRt\" alt=\"ArtworkPage\" height=\"500\">\n * @constructor\n * @return ArtistGrid\n ",
+              "value": "*\n * Component used to display a grid of 4 random artists\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1X0y_I7F3dmmADJcxTdgsCpijOvuY7dRt\" alt=\"ArtworkPage\" height=\"300\">\n * @constructor\n * @return ArtistGrid\n ",
               "start": 210,
               "end": 437,
               "loc": {
@@ -2492,7 +2492,7 @@
         "leadingComments": [
           {
             "type": "CommentBlock",
-            "value": "*\n * Component used to display a grid of 4 random artists\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1X0y_I7F3dmmADJcxTdgsCpijOvuY7dRt\" alt=\"ArtworkPage\" height=\"500\">\n * @constructor\n * @return ArtistGrid\n ",
+            "value": "*\n * Component used to display a grid of 4 random artists\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1X0y_I7F3dmmADJcxTdgsCpijOvuY7dRt\" alt=\"ArtworkPage\" height=\"300\">\n * @constructor\n * @return ArtistGrid\n ",
             "start": 210,
             "end": 437,
             "loc": {
@@ -2514,7 +2514,7 @@
   "comments": [
     {
       "type": "CommentBlock",
-      "value": "*\n * Component used to display a grid of 4 random artists\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1X0y_I7F3dmmADJcxTdgsCpijOvuY7dRt\" alt=\"ArtworkPage\" height=\"500\">\n * @constructor\n * @return ArtistGrid\n ",
+      "value": "*\n * Component used to display a grid of 4 random artists\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1X0y_I7F3dmmADJcxTdgsCpijOvuY7dRt\" alt=\"ArtworkPage\" height=\"300\">\n * @constructor\n * @return ArtistGrid\n ",
       "start": 210,
       "end": 437,
       "loc": {
@@ -3483,7 +3483,7 @@
     },
     {
       "type": "CommentBlock",
-      "value": "*\n * Component used to display a grid of 4 random artists\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1X0y_I7F3dmmADJcxTdgsCpijOvuY7dRt\" alt=\"ArtworkPage\" height=\"500\">\n * @constructor\n * @return ArtistGrid\n ",
+      "value": "*\n * Component used to display a grid of 4 random artists\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1X0y_I7F3dmmADJcxTdgsCpijOvuY7dRt\" alt=\"ArtworkPage\" height=\"300\">\n * @constructor\n * @return ArtistGrid\n ",
       "start": 210,
       "end": 437,
       "loc": {

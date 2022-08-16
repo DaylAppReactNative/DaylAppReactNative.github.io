@@ -674,7 +674,7 @@
           "trailingComments": [
             {
               "type": "CommentBlock",
-              "value": "*\n * Component used to display a grid of 4 similar artists\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1tqlaBZP2Zc17YwnecW01Ftg8_7Igb26W\" alt=\"ArtworkPage\" height=\"500\">\n * @param {SimilarArtistsProps} props\n * @param {string} props.artistId - ID of the artist\n * @constructor\n * @return ArtistGrid\n * ",
+              "value": "*\n * Component used to display a grid of 4 similar artists\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1tqlaBZP2Zc17YwnecW01Ftg8_7Igb26W\" alt=\"ArtworkPage\" height=\"300\">\n * @param {SimilarArtistsProps} props\n * @param {string} props.artistId - ID of the artist\n * @constructor\n * @return ArtistGrid\n * ",
               "start": 280,
               "end": 601,
               "loc": {
@@ -711,7 +711,7 @@
         "trailingComments": [
           {
             "type": "CommentBlock",
-            "value": "*\n * Component used to display a grid of 4 similar artists\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1tqlaBZP2Zc17YwnecW01Ftg8_7Igb26W\" alt=\"ArtworkPage\" height=\"500\">\n * @param {SimilarArtistsProps} props\n * @param {string} props.artistId - ID of the artist\n * @constructor\n * @return ArtistGrid\n * ",
+            "value": "*\n * Component used to display a grid of 4 similar artists\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1tqlaBZP2Zc17YwnecW01Ftg8_7Igb26W\" alt=\"ArtworkPage\" height=\"300\">\n * @param {SimilarArtistsProps} props\n * @param {string} props.artistId - ID of the artist\n * @constructor\n * @return ArtistGrid\n * ",
             "start": 280,
             "end": 601,
             "loc": {
@@ -3100,7 +3100,7 @@
             },
             {
               "type": "CommentBlock",
-              "value": "*\n * Component used to display a grid of 4 similar artists\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1tqlaBZP2Zc17YwnecW01Ftg8_7Igb26W\" alt=\"ArtworkPage\" height=\"500\">\n * @param {SimilarArtistsProps} props\n * @param {string} props.artistId - ID of the artist\n * @constructor\n * @return ArtistGrid\n * ",
+              "value": "*\n * Component used to display a grid of 4 similar artists\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1tqlaBZP2Zc17YwnecW01Ftg8_7Igb26W\" alt=\"ArtworkPage\" height=\"300\">\n * @param {SimilarArtistsProps} props\n * @param {string} props.artistId - ID of the artist\n * @constructor\n * @return ArtistGrid\n * ",
               "start": 280,
               "end": 601,
               "loc": {
@@ -3120,7 +3120,7 @@
         "leadingComments": [
           {
             "type": "CommentBlock",
-            "value": "*\n * Component used to display a grid of 4 similar artists\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1tqlaBZP2Zc17YwnecW01Ftg8_7Igb26W\" alt=\"ArtworkPage\" height=\"500\">\n * @param {SimilarArtistsProps} props\n * @param {string} props.artistId - ID of the artist\n * @constructor\n * @return ArtistGrid\n * ",
+            "value": "*\n * Component used to display a grid of 4 similar artists\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1tqlaBZP2Zc17YwnecW01Ftg8_7Igb26W\" alt=\"ArtworkPage\" height=\"300\">\n * @param {SimilarArtistsProps} props\n * @param {string} props.artistId - ID of the artist\n * @constructor\n * @return ArtistGrid\n * ",
             "start": 280,
             "end": 601,
             "loc": {
@@ -3158,7 +3158,7 @@
     },
     {
       "type": "CommentBlock",
-      "value": "*\n * Component used to display a grid of 4 similar artists\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1tqlaBZP2Zc17YwnecW01Ftg8_7Igb26W\" alt=\"ArtworkPage\" height=\"500\">\n * @param {SimilarArtistsProps} props\n * @param {string} props.artistId - ID of the artist\n * @constructor\n * @return ArtistGrid\n * ",
+      "value": "*\n * Component used to display a grid of 4 similar artists\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1tqlaBZP2Zc17YwnecW01Ftg8_7Igb26W\" alt=\"ArtworkPage\" height=\"300\">\n * @param {SimilarArtistsProps} props\n * @param {string} props.artistId - ID of the artist\n * @constructor\n * @return ArtistGrid\n * ",
       "start": 280,
       "end": 601,
       "loc": {
@@ -4404,7 +4404,7 @@
     },
     {
       "type": "CommentBlock",
-      "value": "*\n * Component used to display a grid of 4 similar artists\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1tqlaBZP2Zc17YwnecW01Ftg8_7Igb26W\" alt=\"ArtworkPage\" height=\"500\">\n * @param {SimilarArtistsProps} props\n * @param {string} props.artistId - ID of the artist\n * @constructor\n * @return ArtistGrid\n * ",
+      "value": "*\n * Component used to display a grid of 4 similar artists\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=1tqlaBZP2Zc17YwnecW01Ftg8_7Igb26W\" alt=\"ArtworkPage\" height=\"300\">\n * @param {SimilarArtistsProps} props\n * @param {string} props.artistId - ID of the artist\n * @constructor\n * @return ArtistGrid\n * ",
       "start": 280,
       "end": 601,
       "loc": {

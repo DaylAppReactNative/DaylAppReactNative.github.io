@@ -555,7 +555,7 @@
           "trailingComments": [
             {
               "type": "CommentBlock",
-              "value": "*\n * Component rendering a horizontally scrollable double carousel of artworks\n * @param {artworkCarouselSingleProps} props\n * @param {Artwork[] | undefined} props.data - Array of artworks\n * @constructor\n * @return ArtworkCarouselSingle\n ",
+              "value": "*\n * Component rendering a horizontally scrollable single carousel of artworks\n * @param {artworkCarouselSingleProps} props\n * @param {Artwork[] | undefined} props.data - Array of artworks\n * @constructor\n * @return ArtworkCarouselSingle\n ",
               "start": 228,
               "end": 471,
               "loc": {
@@ -592,7 +592,7 @@
         "trailingComments": [
           {
             "type": "CommentBlock",
-            "value": "*\n * Component rendering a horizontally scrollable double carousel of artworks\n * @param {artworkCarouselSingleProps} props\n * @param {Artwork[] | undefined} props.data - Array of artworks\n * @constructor\n * @return ArtworkCarouselSingle\n ",
+            "value": "*\n * Component rendering a horizontally scrollable single carousel of artworks\n * @param {artworkCarouselSingleProps} props\n * @param {Artwork[] | undefined} props.data - Array of artworks\n * @constructor\n * @return ArtworkCarouselSingle\n ",
             "start": 228,
             "end": 471,
             "loc": {
@@ -2018,7 +2018,7 @@
             },
             {
               "type": "CommentBlock",
-              "value": "*\n * Component rendering a horizontally scrollable double carousel of artworks\n * @param {artworkCarouselSingleProps} props\n * @param {Artwork[] | undefined} props.data - Array of artworks\n * @constructor\n * @return ArtworkCarouselSingle\n ",
+              "value": "*\n * Component rendering a horizontally scrollable single carousel of artworks\n * @param {artworkCarouselSingleProps} props\n * @param {Artwork[] | undefined} props.data - Array of artworks\n * @constructor\n * @return ArtworkCarouselSingle\n ",
               "start": 228,
               "end": 471,
               "loc": {
@@ -2038,7 +2038,7 @@
         "leadingComments": [
           {
             "type": "CommentBlock",
-            "value": "*\n * Component rendering a horizontally scrollable double carousel of artworks\n * @param {artworkCarouselSingleProps} props\n * @param {Artwork[] | undefined} props.data - Array of artworks\n * @constructor\n * @return ArtworkCarouselSingle\n ",
+            "value": "*\n * Component rendering a horizontally scrollable single carousel of artworks\n * @param {artworkCarouselSingleProps} props\n * @param {Artwork[] | undefined} props.data - Array of artworks\n * @constructor\n * @return ArtworkCarouselSingle\n ",
             "start": 228,
             "end": 471,
             "loc": {
@@ -2076,7 +2076,7 @@
     },
     {
       "type": "CommentBlock",
-      "value": "*\n * Component rendering a horizontally scrollable double carousel of artworks\n * @param {artworkCarouselSingleProps} props\n * @param {Artwork[] | undefined} props.data - Array of artworks\n * @constructor\n * @return ArtworkCarouselSingle\n ",
+      "value": "*\n * Component rendering a horizontally scrollable single carousel of artworks\n * @param {artworkCarouselSingleProps} props\n * @param {Artwork[] | undefined} props.data - Array of artworks\n * @constructor\n * @return ArtworkCarouselSingle\n ",
       "start": 228,
       "end": 471,
       "loc": {
@@ -3121,7 +3121,7 @@
     },
     {
       "type": "CommentBlock",
-      "value": "*\n * Component rendering a horizontally scrollable double carousel of artworks\n * @param {artworkCarouselSingleProps} props\n * @param {Artwork[] | undefined} props.data - Array of artworks\n * @constructor\n * @return ArtworkCarouselSingle\n ",
+      "value": "*\n * Component rendering a horizontally scrollable single carousel of artworks\n * @param {artworkCarouselSingleProps} props\n * @param {Artwork[] | undefined} props.data - Array of artworks\n * @constructor\n * @return ArtworkCarouselSingle\n ",
       "start": 228,
       "end": 471,
       "loc": {

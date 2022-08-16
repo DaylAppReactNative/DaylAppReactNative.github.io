@@ -1,14 +1,9 @@
 {
-  "coverage": "48.88%",
-  "expectCount": 180,
-  "actualCount": 88,
+  "coverage": "54.18%",
+  "expectCount": 203,
+  "actualCount": 110,
   "files": {
     "src/components/Artwork/index.tsx": {
-      "expectCount": 1,
-      "actualCount": 1,
-      "undocumentLines": []
-    },
-    "src/components/ArtworkCarouselDouble/LikedArtworksCarousel/index.tsx": {
       "expectCount": 1,
       "actualCount": 1,
       "undocumentLines": []
@@ -33,6 +28,16 @@
       "actualCount": 1,
       "undocumentLines": []
     },
+    "src/components/ArtworkCarouselSingle/DiscoverByColor/index.tsx": {
+      "expectCount": 3,
+      "actualCount": 3,
+      "undocumentLines": []
+    },
+    "src/components/ArtworkCarouselSingle/LikedArtworksCarousel/index.tsx": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
     "src/components/ArtworkCarouselSingle/index.tsx": {
       "expectCount": 1,
       "actualCount": 1,
@@ -43,6 +48,13 @@
       "actualCount": 1,
       "undocumentLines": []
     },
+    "src/components/ArtworkGrid/MatchingByImageGrid/index.tsx": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        17
+      ]
+    },
     "src/components/ArtworkGrid/index.tsx": {
       "expectCount": 1,
       "actualCount": 1,
@@ -52,7 +64,7 @@
       "expectCount": 2,
       "actualCount": 1,
       "undocumentLines": [
-        43
+        45
       ]
     },
     "src/components/DetailedComponents/HeaderDetailedPage/index.tsx": {
@@ -60,24 +72,10 @@
       "actualCount": 1,
       "undocumentLines": []
     },
-    "src/components/DiscoverByColor/index.tsx": {
-      "expectCount": 3,
-      "actualCount": 3,
-      "undocumentLines": []
-    },
     "src/components/ExploreComponent/index.tsx": {
       "expectCount": 1,
       "actualCount": 1,
       "undocumentLines": []
-    },
-    "src/components/FilterModal/index.tsx": {
-      "expectCount": 4,
-      "actualCount": 1,
-      "undocumentLines": [
-        11,
-        16,
-        21
-      ]
     },
     "src/components/HeaderComponent/HeaderArtistNonUserComponent/index.tsx": {
       "expectCount": 1,
@@ -102,10 +100,32 @@
         17
       ]
     },
-    "src/components/HeaderComponent/HeaderUserComponent/index.tsx": {
+    "src/components/HeaderComponent/HeaderListComponent/index.tsx": {
+      "expectCount": 6,
+      "actualCount": 1,
+      "undocumentLines": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    "src/components/HeaderComponent/HeaderMyProfile/index.tsx": {
       "expectCount": 1,
       "actualCount": 1,
       "undocumentLines": []
+    },
+    "src/components/HeaderComponentList/index.tsx": {
+      "expectCount": 7,
+      "actualCount": 2,
+      "undocumentLines": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
     },
     "src/components/ImagePickerComponent/index.tsx": {
       "expectCount": 4,
@@ -116,7 +136,7 @@
         105
       ]
     },
-    "src/components/Informations/index.tsx": {
+    "src/components/Information/index.tsx": {
       "expectCount": 1,
       "actualCount": 1,
       "undocumentLines": []
@@ -143,6 +163,15 @@
       "actualCount": 1,
       "undocumentLines": []
     },
+    "src/components/Modals/FilterModal/index.tsx": {
+      "expectCount": 4,
+      "actualCount": 1,
+      "undocumentLines": [
+        12,
+        17,
+        22
+      ]
+    },
     "src/components/Modals/MatchingImage/index.tsx": {
       "expectCount": 1,
       "actualCount": 1,
@@ -152,6 +181,13 @@
       "expectCount": 1,
       "actualCount": 1,
       "undocumentLines": []
+    },
+    "src/components/Modals/NewMessageModal/index.tsx": {
+      "expectCount": 2,
+      "actualCount": 1,
+      "undocumentLines": [
+        119
+      ]
     },
     "src/components/Modals/ThreeDotsProfileModal/index.tsx": {
       "expectCount": 1,
@@ -178,142 +214,122 @@
       "actualCount": 1,
       "undocumentLines": []
     },
+    "src/components/SocialNetwork/Chat/ChatComponent/index.tsx": {
+      "expectCount": 2,
+      "actualCount": 1,
+      "undocumentLines": [
+        37
+      ]
+    },
+    "src/components/SocialNetwork/Chat/ChatGrid/index.tsx": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/components/SocialNetwork/Chat/HeaderChat/index.tsx": {
+      "expectCount": 2,
+      "actualCount": 1,
+      "undocumentLines": [
+        47
+      ]
+    },
+    "src/components/SocialNetwork/Chat/InputChat/index.tsx": {
+      "expectCount": 2,
+      "actualCount": 1,
+      "undocumentLines": [
+        35
+      ]
+    },
     "src/components/SocialNetwork/CommentBar/index.tsx": {
       "expectCount": 2,
-      "actualCount": 0,
+      "actualCount": 1,
       "undocumentLines": [
-        15,
-        4
+        50
+      ]
+    },
+    "src/components/SocialNetwork/Discussion/index.tsx": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/components/SocialNetwork/DiscussionGrid/index.tsx": {
+      "expectCount": 2,
+      "actualCount": 1,
+      "undocumentLines": [
+        31
       ]
     },
     "src/components/SocialNetwork/HeaderMainPage/index.tsx": {
       "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        8
-      ]
-    },
-    "src/components/SocialNetwork/HeaderPost/index.tsx": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        21
-      ]
-    },
-    "src/components/SocialNetwork/MessageGrid/index.tsx": {
-      "expectCount": 2,
-      "actualCount": 0,
-      "undocumentLines": [
-        23,
-        12
-      ]
-    },
-    "src/components/SocialNetwork/MessagePreview/index.tsx": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        15
-      ]
+      "actualCount": 1,
+      "undocumentLines": []
     },
     "src/components/SocialNetwork/NewPost/NewPostButton/index.tsx": {
       "expectCount": 2,
-      "actualCount": 0,
+      "actualCount": 1,
       "undocumentLines": [
-        23,
-        7
+        30
       ]
     },
     "src/components/SocialNetwork/NewPost/NewPostHeader/index.tsx": {
       "expectCount": 2,
       "actualCount": 1,
       "undocumentLines": [
-        34
+        48
       ]
     },
     "src/components/SocialNetwork/NewPost/NewPostText/index.tsx": {
       "expectCount": 2,
       "actualCount": 1,
       "undocumentLines": [
-        34
+        50
       ]
+    },
+    "src/components/SocialNetwork/Notifications/ConnectionRequest/index.tsx": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
     },
     "src/components/SocialNetwork/Notifications/NotificationComponent/index.tsx": {
       "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        16
-      ]
+      "actualCount": 1,
+      "undocumentLines": []
     },
     "src/components/SocialNetwork/Notifications/NotificationGrid/index.tsx": {
       "expectCount": 2,
-      "actualCount": 0,
+      "actualCount": 1,
       "undocumentLines": [
-        25,
-        13
+        36
       ]
     },
     "src/components/SocialNetwork/OptionComponent/index.tsx": {
       "expectCount": 2,
       "actualCount": 1,
       "undocumentLines": [
-        49
+        66
       ]
     },
-    "src/components/SocialNetwork/PostAnalysis/index.tsx": {
+    "src/components/SocialNetwork/Posts/PostAnalysis/index.tsx": {
       "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        17
-      ]
-    },
-    "src/components/SocialNetwork/PostComment/index.tsx": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        18
-      ]
-    },
-    "src/components/SocialNetwork/PostPainting/index.tsx": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        21
-      ]
-    },
-    "src/components/SocialNetwork/PostSocial/index.tsx": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        21
-      ]
-    },
-    "src/components/SocialNetwork/RepostPost/index.tsx": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        17
-      ]
+      "actualCount": 1,
+      "undocumentLines": []
     },
     "src/components/SocialNetwork/ThreeDotsComponent/index.tsx": {
       "expectCount": 2,
       "actualCount": 1,
       "undocumentLines": [
-        24
+        33
       ]
+    },
+    "src/components/SocialNetwork/ToolBarComment/index.tsx": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
     },
     "src/components/SocialNetwork/ToolBarPainting/index.tsx": {
       "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        7
-      ]
-    },
-    "src/components/SocialNetwork/ToolBarPost/index.tsx": {
-      "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        12
-      ]
+      "actualCount": 1,
+      "undocumentLines": []
     },
     "src/components/SquareComponent/ArtistComponent.tsx": {
       "expectCount": 1,
@@ -340,11 +356,6 @@
       "actualCount": 1,
       "undocumentLines": []
     },
-    "src/components/SquareComponentGrid/MyLists/index.tsx": {
-      "expectCount": 1,
-      "actualCount": 1,
-      "undocumentLines": []
-    },
     "src/components/SquareComponentGrid/RandomArtists/index.tsx": {
       "expectCount": 1,
       "actualCount": 1,
@@ -359,6 +370,22 @@
       "expectCount": 1,
       "actualCount": 1,
       "undocumentLines": []
+    },
+    "src/components/TabViewComponent/index.tsx": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/components/TopBarAnimatedHeader/index.tsx": {
+      "expectCount": 6,
+      "actualCount": 1,
+      "undocumentLines": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
     },
     "src/components/UserData/index.tsx": {
       "expectCount": 1,
@@ -387,10 +414,8 @@
     },
     "src/components/Utilities/LoadingScreen/index.tsx": {
       "expectCount": 1,
-      "actualCount": 0,
-      "undocumentLines": [
-        4
-      ]
+      "actualCount": 1,
+      "undocumentLines": []
     },
     "src/components/Utilities/NewSearchBar/index.tsx": {
       "expectCount": 1,
@@ -404,10 +429,9 @@
     },
     "src/components/Utilities/SearchBar/SmallerSearchBar.tsx": {
       "expectCount": 2,
-      "actualCount": 0,
+      "actualCount": 1,
       "undocumentLines": [
-        60,
-        9
+        71
       ]
     },
     "src/components/Utilities/SearchBar/index.tsx": {
@@ -426,11 +450,10 @@
     },
     "src/components/Utilities/ToastComponent/index.tsx": {
       "expectCount": 3,
-      "actualCount": 0,
+      "actualCount": 1,
       "undocumentLines": [
-        14,
-        43,
-        25
+        13,
+        50
       ]
     },
     "src/components/Utilities/ToolBarListPage/index.tsx": {
@@ -442,14 +465,21 @@
       "expectCount": 2,
       "actualCount": 1,
       "undocumentLines": [
-        87
+        85
+      ]
+    },
+    "src/screens/ChatPage.tsx": {
+      "expectCount": 2,
+      "actualCount": 1,
+      "undocumentLines": [
+        81
       ]
     },
     "src/screens/CommentsPage.tsx": {
       "expectCount": 2,
       "actualCount": 1,
       "undocumentLines": [
-        64
+        67
       ]
     },
     "src/screens/DetailedScreenSquareComponents.tsx": {
@@ -472,14 +502,7 @@
       "expectCount": 2,
       "actualCount": 1,
       "undocumentLines": [
-        70
-      ]
-    },
-    "src/screens/HomeScreen.tsx": {
-      "expectCount": 2,
-      "actualCount": 1,
-      "undocumentLines": [
-        50
+        74
       ]
     },
     "src/screens/ImagePickerTest.tsx": {
@@ -495,8 +518,8 @@
       "expectCount": 3,
       "actualCount": 1,
       "undocumentLines": [
-        166,
-        167
+        190,
+        191
       ]
     },
     "src/screens/Login.tsx": {
@@ -515,11 +538,11 @@
         44
       ]
     },
-    "src/screens/MessagesPage.tsx": {
+    "src/screens/MatchingByImagePage.tsx": {
       "expectCount": 2,
       "actualCount": 1,
       "undocumentLines": [
-        72
+        23
       ]
     },
     "src/screens/ModalScreen.tsx": {
@@ -533,15 +556,8 @@
       "expectCount": 3,
       "actualCount": 1,
       "undocumentLines": [
-        17,
-        112
-      ]
-    },
-    "src/screens/NewPostPage.tsx": {
-      "expectCount": 2,
-      "actualCount": 1,
-      "undocumentLines": [
-        61
+        19,
+        115
       ]
     },
     "src/screens/NotFoundScreen.tsx": {
@@ -555,16 +571,16 @@
       "expectCount": 2,
       "actualCount": 1,
       "undocumentLines": [
-        71
+        67
       ]
     },
     "src/screens/OldArtistPage.tsx": {
       "expectCount": 4,
       "actualCount": 1,
       "undocumentLines": [
-        24,
-        28,
-        168
+        25,
+        29,
+        174
       ]
     },
     "src/screens/SignUp.tsx": {

@@ -1118,7 +1118,7 @@
           "trailingComments": [
             {
               "type": "CommentBlock",
-              "value": "*\n * Component displaying an Artwork with image, name and artist name\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=19vamBJAY1JchpK47QNtNfrkuGSZwz120\" alt=\"AllMyArtistsMockup\" height=\"500\">\n * @param {artworkProps} props\n * @param {string} props.id - ID of the artwork\n * @param {string} props.imageUri - URI of the image\n * @param {string} props.artistName - Name of the Artist\n * @param {string} props.artworkName - Name of the artwork\n * @param {string} props.artistId - ID of the artist\n * @return ArtworkComponent\n ",
+              "value": "*\n * Component displaying an Artwork with image, name and artist name\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=19vamBJAY1JchpK47QNtNfrkuGSZwz120\" alt=\"AllMyArtistsMockup\" height=\"300\">\n * @param {artworkProps} props\n * @param {string} props.id - ID of the artwork\n * @param {string} props.imageUri - URI of the image\n * @param {string} props.artistName - Name of the Artist\n * @param {string} props.artworkName - Name of the artwork\n * @param {string} props.artistId - ID of the artist\n * @return ArtworkComponent\n ",
               "start": 489,
               "end": 1026,
               "loc": {
@@ -1155,7 +1155,7 @@
         "trailingComments": [
           {
             "type": "CommentBlock",
-            "value": "*\n * Component displaying an Artwork with image, name and artist name\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=19vamBJAY1JchpK47QNtNfrkuGSZwz120\" alt=\"AllMyArtistsMockup\" height=\"500\">\n * @param {artworkProps} props\n * @param {string} props.id - ID of the artwork\n * @param {string} props.imageUri - URI of the image\n * @param {string} props.artistName - Name of the Artist\n * @param {string} props.artworkName - Name of the artwork\n * @param {string} props.artistId - ID of the artist\n * @return ArtworkComponent\n ",
+            "value": "*\n * Component displaying an Artwork with image, name and artist name\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=19vamBJAY1JchpK47QNtNfrkuGSZwz120\" alt=\"AllMyArtistsMockup\" height=\"300\">\n * @param {artworkProps} props\n * @param {string} props.id - ID of the artwork\n * @param {string} props.imageUri - URI of the image\n * @param {string} props.artistName - Name of the Artist\n * @param {string} props.artworkName - Name of the artwork\n * @param {string} props.artistId - ID of the artist\n * @return ArtworkComponent\n ",
             "start": 489,
             "end": 1026,
             "loc": {
@@ -4849,7 +4849,7 @@
             },
             {
               "type": "CommentBlock",
-              "value": "*\n * Component displaying an Artwork with image, name and artist name\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=19vamBJAY1JchpK47QNtNfrkuGSZwz120\" alt=\"AllMyArtistsMockup\" height=\"500\">\n * @param {artworkProps} props\n * @param {string} props.id - ID of the artwork\n * @param {string} props.imageUri - URI of the image\n * @param {string} props.artistName - Name of the Artist\n * @param {string} props.artworkName - Name of the artwork\n * @param {string} props.artistId - ID of the artist\n * @return ArtworkComponent\n ",
+              "value": "*\n * Component displaying an Artwork with image, name and artist name\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=19vamBJAY1JchpK47QNtNfrkuGSZwz120\" alt=\"AllMyArtistsMockup\" height=\"300\">\n * @param {artworkProps} props\n * @param {string} props.id - ID of the artwork\n * @param {string} props.imageUri - URI of the image\n * @param {string} props.artistName - Name of the Artist\n * @param {string} props.artworkName - Name of the artwork\n * @param {string} props.artistId - ID of the artist\n * @return ArtworkComponent\n ",
               "start": 489,
               "end": 1026,
               "loc": {
@@ -4869,7 +4869,7 @@
         "leadingComments": [
           {
             "type": "CommentBlock",
-            "value": "*\n * Component displaying an Artwork with image, name and artist name\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=19vamBJAY1JchpK47QNtNfrkuGSZwz120\" alt=\"AllMyArtistsMockup\" height=\"500\">\n * @param {artworkProps} props\n * @param {string} props.id - ID of the artwork\n * @param {string} props.imageUri - URI of the image\n * @param {string} props.artistName - Name of the Artist\n * @param {string} props.artworkName - Name of the artwork\n * @param {string} props.artistId - ID of the artist\n * @return ArtworkComponent\n ",
+            "value": "*\n * Component displaying an Artwork with image, name and artist name\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=19vamBJAY1JchpK47QNtNfrkuGSZwz120\" alt=\"AllMyArtistsMockup\" height=\"300\">\n * @param {artworkProps} props\n * @param {string} props.id - ID of the artwork\n * @param {string} props.imageUri - URI of the image\n * @param {string} props.artistName - Name of the Artist\n * @param {string} props.artworkName - Name of the artwork\n * @param {string} props.artistId - ID of the artist\n * @return ArtworkComponent\n ",
             "start": 489,
             "end": 1026,
             "loc": {
@@ -4908,7 +4908,7 @@
     },
     {
       "type": "CommentBlock",
-      "value": "*\n * Component displaying an Artwork with image, name and artist name\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=19vamBJAY1JchpK47QNtNfrkuGSZwz120\" alt=\"AllMyArtistsMockup\" height=\"500\">\n * @param {artworkProps} props\n * @param {string} props.id - ID of the artwork\n * @param {string} props.imageUri - URI of the image\n * @param {string} props.artistName - Name of the Artist\n * @param {string} props.artworkName - Name of the artwork\n * @param {string} props.artistId - ID of the artist\n * @return ArtworkComponent\n ",
+      "value": "*\n * Component displaying an Artwork with image, name and artist name\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=19vamBJAY1JchpK47QNtNfrkuGSZwz120\" alt=\"AllMyArtistsMockup\" height=\"300\">\n * @param {artworkProps} props\n * @param {string} props.id - ID of the artwork\n * @param {string} props.imageUri - URI of the image\n * @param {string} props.artistName - Name of the Artist\n * @param {string} props.artworkName - Name of the artwork\n * @param {string} props.artistId - ID of the artist\n * @return ArtworkComponent\n ",
       "start": 489,
       "end": 1026,
       "loc": {
@@ -7042,7 +7042,7 @@
     },
     {
       "type": "CommentBlock",
-      "value": "*\n * Component displaying an Artwork with image, name and artist name\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=19vamBJAY1JchpK47QNtNfrkuGSZwz120\" alt=\"AllMyArtistsMockup\" height=\"500\">\n * @param {artworkProps} props\n * @param {string} props.id - ID of the artwork\n * @param {string} props.imageUri - URI of the image\n * @param {string} props.artistName - Name of the Artist\n * @param {string} props.artworkName - Name of the artwork\n * @param {string} props.artistId - ID of the artist\n * @return ArtworkComponent\n ",
+      "value": "*\n * Component displaying an Artwork with image, name and artist name\n *\n * <img src=\"https://drive.google.com/uc?export=view&id=19vamBJAY1JchpK47QNtNfrkuGSZwz120\" alt=\"AllMyArtistsMockup\" height=\"300\">\n * @param {artworkProps} props\n * @param {string} props.id - ID of the artwork\n * @param {string} props.imageUri - URI of the image\n * @param {string} props.artistName - Name of the Artist\n * @param {string} props.artworkName - Name of the artwork\n * @param {string} props.artistId - ID of the artist\n * @return ArtworkComponent\n ",
       "start": 489,
       "end": 1026,
       "loc": {
